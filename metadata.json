@@ -1,0 +1,6 @@
+{
+  "name": "Aviance Ghana — Aviation Ground Handling Platform",
+  "description": "Official digital platform and operational CMS for Aviance Ghana Limited, Ghana's premier aviation ground handling, cargo, passenger, and ramp operations provider across Accra, Kumasi, and Tamale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
